@@ -93,7 +93,7 @@ export default function App() {
           title: meta.title || 'Bir Ömür Sen',
           artist: meta.artist || 'Ahmx',
           dedication:
-            'Bu şarkının her notasında sana olan sevgim, seninle geçen her anın huzuru ve hayatıma kattığın sonsuz güzellik var. İyi ki varsın, iyi ki hayatımdasın...',
+            'Bebeğimmmmmmmmmmmmmmm mektupta beklemediğin dediğim şey buydu İnşallah beğenirsin çokkkkkkk seviyorummmmmmmmmmmmmmmmm seniiiiiiiiiii',
           audioBlob: localAudioFound.blob,
           audioUrl: localAudioFound.url,
           fileName: localAudioFound.fileName || 'Ahmx - Bir Ömür Sen.mp3',
@@ -181,7 +181,7 @@ export default function App() {
             id="page-main-title"
             className="font-serif-romantic text-5xl sm:text-6xl md:text-7xl font-bold tracking-tight text-white drop-shadow-[0_0_35px_rgba(236,72,153,0.6)] animate-pulse-subtle"
           >
-            Herşeyim
+            Kocan Tarafından yazılmış şarkiii Bebeğimmmmmmmmmmmmmmm
           </h1>
 
           <p className="text-xs sm:text-sm text-neutral-400 font-light tracking-wide max-w-sm mx-auto">
@@ -211,7 +211,7 @@ export default function App() {
       {/* Romantic Pure Footer (No 'Ekle' buttons) */}
       <footer className="relative z-10 w-full max-w-md flex flex-col items-center gap-2 py-4 text-xs text-neutral-400 border-t border-white/5">
         <p className="flex items-center justify-center gap-1.5">
-          <span>Her notada, her saniyede sadece sen</span>
+          <span>Yawrummmmmmmmmmmmm benimmmmmmmmm</span>
           <Heart className="w-3.5 h-3.5 text-pink-500 fill-pink-500 animate-pulse" />
         </p>
       </footer>
