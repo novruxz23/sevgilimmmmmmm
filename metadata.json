@@ -1,0 +1,6 @@
+{
+  "name": "Herşeyim",
+  "description": "Kız arkadaşın için özel hazırlanmış, zarif siyah temalı müzik çalar ve şarkı indirme sayfası.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
